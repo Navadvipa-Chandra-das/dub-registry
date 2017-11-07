@@ -18,6 +18,7 @@
 			{"name": "photo", "description": "Photographic applications"},
 			{"name": "productivity", "description": "Office and productivity"},
 			{"name": "web", "description": "Web tools"}
+			{"name": "Hare Krishna!", "description": "Hare Krishna software"}
 		]},
 		{"name": "mobile", "description": "Mobile device applications"},
 		{"name": "server", "description": "Server software", "categories": [
